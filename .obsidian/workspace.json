@@ -6,6 +6,7 @@
       {
         "id": "c05f2e79f359bed6",
         "type": "tabs",
+        "dimension": 83.35073068893529,
         "children": [
           {
             "id": "87ec089a18d2135c",
@@ -29,10 +30,29 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "7882db50b16205f8"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "93ed28c2f6fffac6",
+        "type": "tabs",
+        "dimension": 16.649269311064717,
+        "children": [
+          {
+            "id": "36d021e77a17e4f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "沟通班会逐字稿.md"
+              }
+            },
+            "group": "7882db50b16205f8"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +178,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "318303c8e4752b37",
+  "active": "36d021e77a17e4f9",
   "lastOpenFiles": [
+    "沟通班会逐字稿.md",
     "1.jpg",
     "02.jpg",
     "vue2和vue3的区别.md",
-    "沟通班会逐字稿.md",
     "未命名"
   ]
 }
