@@ -12,17 +12,14 @@
             "id": "87ec089a18d2135c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "vue2和vue3的区别.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "vue2和vue3的区别"
             }
           }
         ]
@@ -38,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "vue2和vue3的区别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "vue2和vue3的区别 的大纲"
             }
           }
         ]
@@ -120,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "vue2和vue3的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "vue2和vue3的区别 的反向链接列表"
             }
           },
           {
@@ -139,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "vue2和vue3的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "vue2和vue3的区别 的出链列表"
             }
           },
           {
@@ -168,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "vue2和vue3的区别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "vue2和vue3的区别 的大纲"
             }
           }
         ],
@@ -191,16 +188,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "87ec089a18d2135c",
+  "active": "22e0084c1a926ea2",
   "lastOpenFiles": [
-    "vue2和vue3的区别.md",
-    "未命名.canvas",
+    "未命名",
     "沟通班会逐字稿.md",
     "1.jpg",
     "02.jpg",
-    "未命名"
+    "未命名.canvas",
+    "vue2和vue3的区别.md"
   ]
 }
