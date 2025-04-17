@@ -6,7 +6,6 @@
       {
         "id": "c05f2e79f359bed6",
         "type": "tabs",
-        "dimension": 82.6722338204593,
         "children": [
           {
             "id": "87ec089a18d2135c",
@@ -14,34 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue2和vue3的区别.md",
+                "file": "数据库/Mysql引擎和区别.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "vue2和vue3的区别"
+              "title": "Mysql引擎和区别"
             }
           }
         ]
       },
       {
-        "id": "93ed28c2f6fffac6",
+        "id": "3ef7fc74ba8ea91e",
         "type": "tabs",
-        "dimension": 17.32776617954071,
         "children": [
           {
-            "id": "36d021e77a17e4f9",
+            "id": "6511061af557c5f0",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "vue2和vue3的区别.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "数据库/Mysql引擎和区别.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-list",
-              "title": "vue2和vue3的区别 的大纲"
+              "icon": "lucide-file",
+              "title": "Mysql引擎和区别"
             }
           }
         ]
@@ -117,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue2和vue3的区别.md",
+                "file": "数据库/Mysql引擎和区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "vue2和vue3的区别 的反向链接列表"
+              "title": "Mysql引擎和区别 的反向链接列表"
             }
           },
           {
@@ -136,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue2和vue3的区别.md",
+                "file": "数据库/Mysql引擎和区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "vue2和vue3的区别 的出链列表"
+              "title": "Mysql引擎和区别 的出链列表"
             }
           },
           {
@@ -165,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue2和vue3的区别.md",
+                "file": "数据库/Mysql引擎和区别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vue2和vue3的区别 的大纲"
+              "title": "Mysql引擎和区别 的大纲"
             }
           }
         ],
@@ -192,13 +189,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "22e0084c1a926ea2",
+  "active": "87ec089a18d2135c",
   "lastOpenFiles": [
-    "未命名",
+    "数据库.md",
+    "数据库/Mysql引擎和区别.md",
+    "搞机",
+    "开源项目",
+    "dotnet",
+    "python/未命名",
+    "未命名 1",
+    "python",
+    "数据库",
+    "vue2和vue3的区别.md",
+    "运维",
     "沟通班会逐字稿.md",
     "1.jpg",
     "02.jpg",
-    "未命名.canvas",
-    "vue2和vue3的区别.md"
+    "未命名.canvas"
   ]
 }
